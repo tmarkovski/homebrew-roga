@@ -1,6 +1,6 @@
 cask "roga" do
-  version "0.0.2"
-  sha256 "435144bfb0caca429070e8653b366f2f1d2288a53568f76ea71cf5ab78ab2031"
+  version "0.0.5"
+  sha256 "d6246c8ac3b6c8005327538ca5c21c5a3aab0d1317fb6ad7beaa72012f56d93b"
 
   url "https://github.com/tmarkovski/roga/releases/download/v#{version}/Roga-#{version}.zip",
       verified: "github.com/tmarkovski/roga/"
